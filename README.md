@@ -11,7 +11,7 @@ Twitter REST API for humans
 
 In order to use Twitter REST API you need to register [here](https://apps.twitter.com) and generate proper acces Keys and Tokens. Also, your need to set the right permissions for your application. You can do this the via the [application management](https://apps.twitter.com) web interface. 
 
-Once you have your Keys and Tokens you can store them in auth.py. **However, if you put your project on Github, remember to [.gitignore] .gitignore this file!**
+Once you have your Keys and Tokens you can store them in auth.py. **However, if you put your project on Github, remember to [.gitignore](.gitignore) this file!**
 
 # license
 
