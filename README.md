@@ -13,6 +13,6 @@ In order to use Twitter REST API you need to register [here](https://apps.twitte
 
 Once you have your Keys and Tokens you can store them in auth.py. **However, if you put your project on Github, remember to [.gitignore](.gitignore) this file!**
 
-# license
+## license
 
 See [LICENSE](LICENSE)
